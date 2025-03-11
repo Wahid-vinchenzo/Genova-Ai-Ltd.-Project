@@ -1,12 +1,12 @@
 # Genova AI - Generative AI Solutions for Businesses
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://shorturl.at/iwbNW)  <!-- Replace with actual link if it's different -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://shorturl.at/iwbNW)  
 
 ## Description
 
 Genova AI provides cutting-edge generative AI solutions to empower businesses to innovate and transform their operations.  We offer a range of services, including AI model training, content generation, and AI integration, tailored to meet the specific needs of our clients.
 
-Key Features:
+**Key Features:**
 
 *   **Comprehensive Generative AI Services:** AI Model Training, Content Generation, and AI Integration.
 *   **Tailored Solutions:** Customizable AI solutions designed to meet individual business requirements.
@@ -17,11 +17,10 @@ Key Features:
 
 ## Live Demo
 
-[[https://www.genova.ai](https://shorturl.at/iwbNW)] <!--  Replace with the actual website URL -->
-
+[[https://www.genova.ai](https://shorturl.at/iwbNW)] 
 ## Technologies Used
 
-*   [Tailwind CSS](https://tailwindcss.com/) (v3.x - *confirm the actual version*) or similar CSS framework.
+*   [Tailwind CSS](https://tailwindcss.com/).
 *   HTML
 *   CSS
   
@@ -43,15 +42,13 @@ The Genova AI website is designed to provide information about our generative AI
 
 We welcome contributions to our open-source AI initiatives and research.  If you're interested in contributing, please review our contribution guidelines.
 
-## License
+## License:
 
-*Choose a license appropriate for your project.  If you don't want others to use the code, state "All Rights Reserved."*
+All Right Reserved.
 
-[MIT License](LICENSE)  *or* All Rights Reserved
+## Contact:
 
-## Contact
-
-[sadmanwahid307@gmail.com](mailto:sadmanwahid307@gmail.com)  (or your preferred contact email)
+[sadmanwahid307@gmail.com](mailto:sadmanwahid307@gmail.com)  
 
 [github.com/Wahid-vinchenzo](https://github.com/Wahid-vinchenzo).
 
